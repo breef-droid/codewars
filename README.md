@@ -1,2 +1,2 @@
 # codewars
-Codears Kata
+Codewars Kata
